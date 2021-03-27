@@ -10,6 +10,6 @@
   "watch": [
     "src"
   ],
-  "exec": "npm start",
+  "exec": "npm start_local",
   "ext": "ts"
 }
